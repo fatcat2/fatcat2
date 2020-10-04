@@ -6,5 +6,6 @@ I'm interested in Python programming, fun Slack bots and open data. Also interes
 
 - 📫 How to reach me: ryanjchen2 @ gmail
 - 📰 Read my work [here](https://ryanjchen.com/articles).
+- 🥅 My programming goal for the end of 2020 is to create a Rust microservice bot.
 
 Support local journalism!
